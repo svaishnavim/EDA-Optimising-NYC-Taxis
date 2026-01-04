@@ -8,3 +8,10 @@ Tasks:
 - Exploratory Analysis: Bivariate and Multivariate
 - Creating Visualisations to Support the Analysis
 - Deriving Insights and Stating Conclusions
+
+Python libraries used:
+- numpy==1.26.4
+- pandas==2.2.2
+- matplotlib==3.10.0
+- seaborn==0.13.2
+- pyarrow
